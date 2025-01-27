@@ -16,12 +16,12 @@
 - Linear Search
 - Binary Search
 ### Sort
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
-- Radix Sort
-- Counting Sort
-- Bucket Sort
+- [Bubble Sort](bubble_sort/)
+- [Selection Sort](selection_sort/)
+- [Insertion Sort](insertion_sort/)
+- [Merge Sort](_sort/)
+- [Quick Sort](_sort/)
+- [Heap Sort](_sort/)
+- [Radix Sort](_sort/)
+- [Counting Sort](_sort/)
+- [Bucket Sort](_sort/)
