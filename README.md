@@ -13,8 +13,8 @@
   - Set
 ## Algorithms
 ### Search
-- Linear Search
-- Binary Search
+- [Linear Search](linear_search/)
+- [Binary Search](binary_search/)
 ### Sort
 - [Bubble Sort](bubble_sort/)
 - [Selection Sort](selection_sort/)
