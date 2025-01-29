@@ -1,16 +1,16 @@
 # Data Structure & Algorithm
 ## Data Structures
 - Linear Data Structure
-  - Array
-  - Linked List
+  - [Array](array/)
+  - [Linked List](linked_list/)
   - [Stack](stack/)
   - [Queue](queue/)
-  - String
+  - [String](string/)
 - Non Linear Data Structure
   - [Graph](graph/)
   - [Tree](tree/)
-  - Hash Table
-  - Set
+  - [Hash Table](hash_table/)
+  - [Set](set/)
 ## Algorithms
 ### Search
 - [Linear Search](linear_search/)
