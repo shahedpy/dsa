@@ -3,8 +3,8 @@
 - Linear Data Structure
   - Array
   - Linked List
-  - Stack
-  - Queue
+  - [Stack](stack/)
+  - [Queue](queue/)
   - String
 - Non Linear Data Structure
   - Graph
