@@ -7,8 +7,8 @@
   - [Queue](queue/)
   - String
 - Non Linear Data Structure
-  - Graph
-  - Tree
+  - [Graph](graph/)
+  - [Tree](tree/)
   - Hash Table
   - Set
 ## Algorithms
