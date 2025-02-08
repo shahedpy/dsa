@@ -4,6 +4,7 @@
 ```cpp
 #include <iostream>
 using namespace std;
+
 int binary_search(int array[], int x, int low, int high){
     if(high >= low){
         int mid = low + (high-low)/2;
