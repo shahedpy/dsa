@@ -3,6 +3,7 @@
 ## Code
 ```cpp
 #include <iostream>
+
 using namespace std;
 
 int binary_search(int array[], int x, int low, int high){
