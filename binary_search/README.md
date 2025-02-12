@@ -29,3 +29,6 @@ int main(){
     return 0;
 }
 ```
+
+## Time Complexity
+Time complexity of Binary Search is O(log n), where n is the number of elements in the array.
