@@ -2,13 +2,13 @@
 ## pseudo code
 ```
 InsertionSort(A)
-Step 1.  for i ← 1 to length(A) - 1 do
-Step 2.      key ← A[i]
-Step 3.      j ← i - 1
-Step 4.      while j ≥ 0 and A[j] > key do
-Step 5.          A[j + 1] ← A[j]
-Step 6.          j ← j - 1
-Step 7.      A[j + 1] ← key
+1.  for i ← 1 to length(A) - 1 do
+2.      key ← A[i]
+3.      j ← i - 1
+4.      while j ≥ 0 and A[j] > key do
+5.          A[j + 1] ← A[j]
+6.          j ← j - 1
+7.      A[j + 1] ← key
 ```
 
 ## Code
